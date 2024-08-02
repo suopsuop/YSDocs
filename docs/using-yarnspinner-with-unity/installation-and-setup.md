@@ -15,7 +15,7 @@ You can download and install Yarn Spinner for Unity in four different ways:
 * install Yarn Spinner for Unity from GitHub
 
 {% hint style="info" %}
-Yarn Spinner is an open source project. You can directly support the Yarn Spinner Team by purchasing Yarn Spinner from [Itch](https://yarnspinner.itch.io) or the [Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/yarn-spinner-for-unity-267061), but it will always also be available for free. To support the continued development of Yarn Spinner, purchasing Yarn Spinner for Unity from one of the storefronts. This is the best way to directly support the Yarn Spinner team.
+Yarn Spinner is an open source project. You can directly support the Yarn Spinner Team by purchasing Yarn Spinner from [Itch](https://yarnspinner.itch.io) or the [Unity Asset Store](https://assetstore.unity.com/packages/tools/behavior-ai/yarn-spinner-for-unity-267061), but it will always also be available for free. To support the continued development of Yarn Spinner, you can purchase Yarn Spinner for Unity from one of the storefronts. This is the best way to directly support the Yarn Spinner team.
 {% endhint %}
 
 ## Install from Itch.io
